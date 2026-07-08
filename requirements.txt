@@ -1,0 +1,15 @@
+# Core dependencies (minimal)
+# No external dependencies - CCS is pure Python
+
+# Optional: Framework integrations (install only what you need)
+# crewai>=0.28.0
+# langchain>=0.1.0
+# langchain-openai>=0.1.0
+# pyautogen>=0.2.0
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+isort>=5.12.0
+mypy>=1.0.0
