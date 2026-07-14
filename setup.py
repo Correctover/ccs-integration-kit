@@ -38,9 +38,4 @@ setup(
             "mypy>=1.0.0",
         ],
     },
-    entry_points={
-        "console_scripts": [
-            "ccs-validate=ccs.cli:main",
-        ],
-    },
 )
